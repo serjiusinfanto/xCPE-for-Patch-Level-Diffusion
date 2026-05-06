@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/results/
+
+# Data — large CSVs and cached tensors, download with scripts/download_data.py
+data/raw/
+data/processed/
+
+# Model checkpoints — large .pt files, too big for GitHub
+results/checkpoints/
+*.pt
+
+# Zip archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Wandb
+wandb/
+
+*.pdf
+*.txt
+*.tex
+*.csv
