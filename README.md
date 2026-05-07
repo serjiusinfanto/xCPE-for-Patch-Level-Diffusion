@@ -141,3 +141,4 @@ Loads real trained checkpoints and runs live inference on the ETTh1 test set. Th
 - Wang et al., *TimeDART*, ICLR 2025. [GitHub](https://github.com/Melmaphother/TimeDART)
 - Wu et al., *Point Transformer V3*, CVPR 2024 (Oral). [GitHub](https://github.com/Pointcept/PointTransformerV3)
 - Su et al., *RoFormer: Enhanced Transformer with Rotary Position Embedding*, arXiv:2104.09864, 2021.
+
